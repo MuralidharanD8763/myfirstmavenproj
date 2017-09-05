@@ -26,9 +26,9 @@
 	</distributionManagement>
 
 	<scm>
-		<connection>scm:git@github.com:MuralidharanD8763/myfirstmavenproj.git</connection>
-		<developerConnection>scm:git@github.com:MuralidharanD8763/myfirstmavenproj.git</developerConnection>
-		<url>scm:git@github.com:MuralidharanD8763/myfirstmavenproj.git</url>
+		<connection>scm:git:git@github.com:MuralidharanD8763/myfirstmavenproj.git</connection>
+		<developerConnection>scm:git:git@github.com:MuralidharanD8763/myfirstmavenproj.git</developerConnection>
+		<url>scm:git:git@github.com:MuralidharanD8763/myfirstmavenproj.git</url>
 	</scm>
 
 	<dependencies>
